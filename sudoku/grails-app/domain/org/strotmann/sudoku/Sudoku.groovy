@@ -12,7 +12,7 @@ class Sudoku {
 	}
 	
 	List getSudo () {
-		//81-stelliger String auf 9x9 Liste
+		//81-stelliger String auf 9x9 Liste xxx
 		List l = []
 		
 		for (int i = 0; i < 9; i++) {
